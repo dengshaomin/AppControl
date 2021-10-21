@@ -1,2 +1,1 @@
 com.xifeng.buypet-true
-com.iqiyi.buypet-false
